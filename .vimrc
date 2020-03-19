@@ -1,4 +1,4 @@
-noremap kk <ESC>
+inoremap kk <ESC>
 let mapleader = " "
 filetype plugin indent on
 syntax on
